@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Growbusiness/static/css/main.5c08c81a.css",
-    "main.js": "/Growbusiness/static/js/main.0d2934db.js",
+    "main.css": "/Growbusiness/static/css/main.45591e49.css",
+    "main.js": "/Growbusiness/static/js/main.29bb35e6.js",
     "static/media/s2.jpg": "/Growbusiness/static/media/s2.9668b1d422fd0fcbb302.jpg",
     "static/media/s4.jpg": "/Growbusiness/static/media/s4.ab42693ea825ac314381.jpg",
-    "static/media/s9.jpg": "/Growbusiness/static/media/s9.c7dd6a965df394a7159b.jpg",
+    "static/media/s5.jpg": "/Growbusiness/static/media/s5.c7dd6a965df394a7159b.jpg",
     "static/media/s3.jpg": "/Growbusiness/static/media/s3.ebff6cd0e4670f8bb925.jpg",
     "static/media/s1.jpg": "/Growbusiness/static/media/s1.97896864d9616116bb1f.jpg",
-    "static/media/s10.jpg": "/Growbusiness/static/media/s10.1598d363682be46e6ef3.jpg",
+    "static/media/s6.jpg": "/Growbusiness/static/media/s6.1598d363682be46e6ef3.jpg",
+    "static/media/about.jpg": "/Growbusiness/static/media/about.9c7153aec94ffa68ab8b.jpg",
+    "static/media/home.jpg": "/Growbusiness/static/media/home.66a098d2234a652b80c3.jpg",
     "index.html": "/Growbusiness/index.html",
-    "main.5c08c81a.css.map": "/Growbusiness/static/css/main.5c08c81a.css.map",
-    "main.0d2934db.js.map": "/Growbusiness/static/js/main.0d2934db.js.map"
+    "main.45591e49.css.map": "/Growbusiness/static/css/main.45591e49.css.map",
+    "main.29bb35e6.js.map": "/Growbusiness/static/js/main.29bb35e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c08c81a.css",
-    "static/js/main.0d2934db.js"
+    "static/css/main.45591e49.css",
+    "static/js/main.29bb35e6.js"
   ]
 }
