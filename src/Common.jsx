@@ -22,7 +22,7 @@ const Common = (props) => {
             </div>
             </div>   
                 <div className='col-lg-6 order-1 order-lg-2 header-img'>
-                    <img src={props.imgsrc} className='img-fluid animated ' alt="home image" />
+                    <img src={props.imgsrc} className='img-fluid animated ' alt="home photo" />
                 </div>        
             </div>
         </div>

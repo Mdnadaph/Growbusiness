@@ -17,16 +17,16 @@ const Footer = () => {
                 <div className='col-md-6 col-lg-2 col-xl-2 mx-auto mt-3'>
                     <h5 className='mb-4 fw-bold text-primary'>Products</h5>
                     <p>
-                        <a href="#" className='text-black' style={{textDecoration:'none'}}>Software Development</a>
+                        <i  className='text-black' style={{textDecoration:'none'}}>Software Development</i>
                     </p>
                     <p>
-                        <a href="#" className='text-black' style={{textDecoration:'none'}}>Web Devlopment</a>
+                        <i  className='text-black' style={{textDecoration:'none'}}>Web Devlopment</i>
                     </p>
                     <p>
-                        <a href="#" className='text-black' style={{textDecoration:'none'}}>Digital Marketing</a>
+                        <i  className='text-black' style={{textDecoration:'none'}}>Digital Marketing</i>
                     </p>
                     <p>
-                        <a href="#" className='text-black' style={{textDecoration:'none'}}>Game Development</a>
+                        <i  className='text-black' style={{textDecoration:'none'}}>Game Development</i>
                     </p>
                 </div>
 
