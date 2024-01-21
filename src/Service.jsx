@@ -7,7 +7,7 @@ const Service = () => {
     <>
       <div className='my-5'>
       <br />
-        <h3 className='text-center text-primary fw-bold'>Our Services</h3>
+        <h3 className='text-center text-primary fw-bold text2'>Our Services</h3>
       </div>
       <div className='container-fluid mb-5'>
         <div className='column'>

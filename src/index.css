@@ -21,7 +21,7 @@
 
 .menu_active{
   color: black;
-  /* border-bottom: 1px solid #565387; */
+
 }
 
 .navbar a:hover {
@@ -29,7 +29,8 @@
   font-weight: bold;
   padding: 4px;
   border-bottom: 2px solid black;
-
+  text-shadow: 2px 2px 1px black;
+  
   
 }
 @media (max-width:991px){
@@ -37,13 +38,6 @@
     font-size: 1.5rem !important;
   }
 }
-/* 
-navbar a:hover,menu_active {
-  font-weight: bold;
-  border-bottom: 1px solid #565387;
-} */
-
-
 
 
 /* Main Landing Section wher we can write the all css properties to main section */
@@ -82,6 +76,8 @@ navbar a:hover,menu_active {
 #header .btn:hover{
   background-color: #3498db;
   color: #fff;
+  text-shadow: 2px 2px 1px black;
+
 }
 .header-img{
   text-align: right;
@@ -138,6 +134,19 @@ navbar a:hover,menu_active {
 
 @media (min-width: 992px) { 
 
+}
+
+/* contact us page */
+/* this is contact us page for main headint to textshadow properties applies */
+.texth3{
+  text-shadow: 2px 2px 1px black;
+  letter-spacing: 2.5px;
+}
+.text2{
+  text-shadow: 2px 2px 1px black;
+}
+.brand_name{
+  text-shadow: 2px 2px 1px black;
 }
 
 

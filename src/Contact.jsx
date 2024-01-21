@@ -1,12 +1,11 @@
-import React from 'react'
-import Footer from './Footer'
+import React from 'react';
 
 const Contact = () => {
   return (
     <>
       <div className='my-5 mb-70'>
       <br />
-        <h3 className='text-center text-primary fw-bold'>Make feel free to contact us</h3>
+        <h3 className='text-center text-primary fw-bold texth3'>Make feel free to contact us</h3>
     
       </div>
       <div className='container contact-div '>

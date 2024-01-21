@@ -1,9 +1,9 @@
-import web from  "../src/image/s3.jpg";
-import App from  "../src/image/s1.jpg";
-import Web1 from  "../src/image/s4.jpg";
-import Software from  "../src/image/s9.jpg";
-import Digital from  "../src/image/s2.jpg";
-import Android from  "../src/image/s10.jpg";
+import web from  "../src/image/s1.jpg";
+import App from  "../src/image/s2.jpg";
+import Web1 from  "../src/image/s3.jpg";
+import Software from  "../src/image/s4.jpg";
+import Digital from  "../src/image/s5.jpg";
+import Android from  "../src/image/s6.jpg";
 
 
 const Sdata = [

@@ -7,7 +7,7 @@ import Service from './Service';
 import Contact from './Contact';
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-// import './App.css';
+
 
 
 function App() {
