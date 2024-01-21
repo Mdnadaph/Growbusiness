@@ -1,0 +1,143 @@
+@import url("http://fonts.googleapis.com/css2?family=Muli&display=swap");
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+}
+.navbar{
+  background-color: #fff !important;
+}
+.navbar-brand{
+  font-size: 1.9rem !important;
+  color: #565387 !important;
+}
+.navbar a{
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #3498db;
+  text-transform: capitalize;
+}
+
+.menu_active{
+  color: black;
+  /* border-bottom: 1px solid #565387; */
+}
+
+.navbar a:hover {
+  color: #3498db !important;
+  font-weight: bold;
+  padding: 4px;
+  border-bottom: 2px solid black;
+
+  
+}
+@media (max-width:991px){
+  .navbar-brand{
+    font-size: 1.5rem !important;
+  }
+}
+/* 
+navbar a:hover,menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+} */
+
+
+
+
+/* Main Landing Section wher we can write the all css properties to main section */
+
+#header{
+  width: 100%;
+  height: 80vh;
+  margin-top: 20px;
+}
+#header h1{
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+}
+#header .brand_name{
+  color: #3498db;
+  /* color: blue; */
+}
+
+#header h2{
+  color: #484848;
+  font-size: 24px;
+}
+#header .btn{
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  border: 2px solid #3498db;
+  text-decoration: none;
+}
+#header .btn:hover{
+  background-color: #3498db;
+  color: #fff;
+}
+.header-img{
+  text-align: right;
+}
+#header .animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down{
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes up-down{
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-5px);
+  }
+}
+
+/* Service Page Started  */
+
+@media (max-width: 600px) and (max-width:768px) {
+
+  .brand_name{
+    font-size: 25px;
+    
+  }
+  .main_h1{
+    text-align: center;
+    font-size: 25px;
+  }
+  .btn1{
+    display: grid;
+    place-items: center;
+  }
+  .footer{
+    margin-top: 30px;
+  }
+  .text1{
+    text-align: center;
+    font-size: 18px;
+  }
+  
+}
+
+/* For Small screen laptops or Medium devices */
+
+@media (min-width: 992px) { 
+
+}
+
+
